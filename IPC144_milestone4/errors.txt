@@ -1,0 +1,7 @@
+/tmp/ccbzbW0t.o: In function `main':
+ipc_ms4_prof.c:(.text+0x16): undefined reference to `searchTest'
+ipc_ms4_prof.c:(.text+0x27): undefined reference to `updateTest'
+ipc_ms4_prof.c:(.text+0x38): undefined reference to `addTest'
+ipc_ms4_prof.c:(.text+0x49): undefined reference to `addOrUpdateTest'
+ipc_ms4_prof.c:(.text+0x5a): undefined reference to `adjustQtyTest'
+collect2: ld returned 1 exit status
